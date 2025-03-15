@@ -10,8 +10,8 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/TeddyDommie/OMEGA-XMD /root/omega_bot
-WORKDIR /root/omega_Bot/
+RUN git clone https://github.com/TeddyDommie/OMEGA-XMD /root/lucky_bot
+WORKDIR /root/lucky_Bot/
 
 
 COPY package.json .
