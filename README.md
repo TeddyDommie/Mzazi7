@@ -23,7 +23,7 @@
 <!-- Repo Size -->
   <img src="https://img.shields.io/github/repo-size/TeddyDommie/OMEGA-XMD?color=gold&label=Repo%20Size&style=plastic" alt="Repo Size">
   <!-- Developer -->
-  <img src="https://img.shields.io/static/v1?label=Author&message=TeddyDommie%20Ezra&color=pink&style=plastic" alt="Developer Badge">
+  <img src="https://img.shields.io/static/v1?label=Author&message=TeddyDommie%20Mzazi&color=pink&style=plastic" alt="Developer Badge">
 </p>
 
 
@@ -48,7 +48,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Fred1e/Lucky_md"><b>𝐎𝐌𝐄𝐆𝐀 𝐗𝐌𝐃</b></a> 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝘿𝙚𝙥𝙡𝙤𝙮 𝙊𝙣...
+  <a href="https://github.com/TeddyDommie/OMEGA-XMD"><b>𝐎𝐌𝐄𝐆𝐀 𝐗𝐌𝐃</b></a> 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝘿𝙚𝙥𝙡𝙤𝙮 𝙊𝙣...
 </p>
 
 <p align="center">
@@ -171,7 +171,7 @@ KOYEB
 2. **ɴᴏᴡ ᴛʀʏ ᴅᴇᴘʟᴏʏ ɪᴛ ɪɴ ᴋᴏʏᴇʙ ᴛᴀᴘ ᴛʜᴇ ʙᴜᴛᴏɴ**
 
 </a></p>
-- [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=lucky-md&repository=TeddyDommie%2FOMEGA-XMD&branch=main&instance_type=free&env%5BANTICALL%5D=no&env%5BANTI_DELETE_MESSAGE%5D=no&env%5BAUTO_DOWNLOAD_STATUS%5D=no&env%5BAUTO_REACT_STATUS%5D=yes&env%5BAUTO_READ%5D=no&env%5BAUTO_READ_STATUS%5D=true&env%5BBOT_MENU_LINKS%5D=https%3A%2F%2Ffiles.catbox.moe%2F7irwqn.jpeg&env%5BBOT_NAME%5D=OMEGA-XMD+&env%5BNUMERO_OWNER%5D=254741388986+&env%5BOWNER_NAME%5D=%D2%93%CA%80%E1%B4%87%E1%B4%85%C9%AA%E1%B4%87%E1%B4%A2%CA%80%E1%B4%80255&env%5BPM_PERMIT%5D=yes&env%5BPREFIX%5D=.+&env%5BPRESENCE%5D=2&env%5BPUBLIC_MODE%5D=yes&env%5BSESSION_ID%5D=&env%5BSTARTING_BOT_MESSAGE%5D=no&env%5BWARN_COUNT%5D=5)
+- [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=OMEGA-XMD&repository=TeddyDommie%2FOMEGA-XMD&branch=main&instance_type=free&env%5BANTICALL%5D=no&env%5BANTI_DELETE_MESSAGE%5D=no&env%5BAUTO_DOWNLOAD_STATUS%5D=no&env%5BAUTO_REACT_STATUS%5D=yes&env%5BAUTO_READ%5D=no&env%5BAUTO_READ_STATUS%5D=true&env%5BBOT_MENU_LINKS%5D=https%3A%2F%2Ffiles.catbox.moe%2F7irwqn.jpeg&env%5BBOT_NAME%5D=OMEGA-XMD+&env%5BNUMERO_OWNER%5D=254741388986+&env%5BOWNER_NAME%5D=%D2%93%CA%80%E1%B4%87%E1%B4%85%C9%AA%E1%B4%87%E1%B4%A2%CA%80%E1%B4%80255&env%5BPM_PERMIT%5D=yes&env%5BPREFIX%5D=.+&env%5BPRESENCE%5D=2&env%5BPUBLIC_MODE%5D=yes&env%5BSESSION_ID%5D=&env%5BSTARTING_BOT_MESSAGE%5D=no&env%5BWARN_COUNT%5D=5)
 
 
 
