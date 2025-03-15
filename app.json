@@ -1,14 +1,14 @@
 {
-  "name": "✧⁠LUCKY_MD✧ MULT DEVICE",
-  "description": "Lucky Whatsapp device bot made by FrediEzra to help Whatsapp users to enjoy while helping..",
+  "name": "✧⁠OMEGA-XMD✧ MULT DEVICE",
+  "description": "OMEGA Whatsapp device bot made by MZAZI to help Whatsapp users to enjoy while helping..",
   "keywords": [
     "bot",
     "node",
     "baileys",
     "whatsapp"
   ],
-  "logo": "https://files.catbox.moe/7irwqn.jpeg",
-  "repository": "https://github.com/Fred1e/LUCKY_MD",
+  "logo": "https://files.catbox.moe/wmbpkc.jpg",
+  "repository": "https://github.com/TeddyDommie/Mzazi7",
   "succes_url": "/",
   "stack": "container",
   "env": {
@@ -101,12 +101,12 @@
     },
     "OWNER_NAME": {
       "description": "don't you have a name bro.Insert your name here!!",
-      "value": "FrediEzra",
+      "value": "Mzazi",
       "required": false
     },
     "URL": {
       "description": "you must add your bot image url.Get your image url now and fill it here",
-      "value": "https://files.catbox.moe/7irwqn.jpeg",
+      "value": "https://files.catbox.moe/wmbpkc.jpg",
       "required": true
     },
     "AUTO_READ_MESSAGES": {
@@ -115,8 +115,8 @@
       "required": false  
     },
     "NUMERO_OWNER": {
-      "description": "Your phone number (exclude '+' and area code, e.g., '255752593977')",
-      "value": "255752593977",
+      "description": "Your phone number (exclude '+' and area code, e.g., '254741388986')",
+      "value": "254741388986",
       "required": false
     },
     "WARN_COUNT": {
