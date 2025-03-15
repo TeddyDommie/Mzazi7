@@ -22,4 +22,4 @@ COPY . .
 
 EXPOSE 5000
 
-CMD ["npm", "run" , "omega"]
+CMD ["npm", "run" , "mzazi"]
