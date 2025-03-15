@@ -8,17 +8,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "s": "node control.js", 
-    "ezra": "pm2 start control.js --attach --max-memory-restart 490M",
-    "fredi": "pm2 start fredi.js --attach",
+    "teddy": "pm2 start control.js --attach --max-memory-restart 490M",
+    "mzazi": "pm2 start mzazi.js --attach",
     "c": "tsc"
     },
   "keywords": [
     "bot",
     "Baileys",
-    "Lucky-Md",
+    "Omega-Xmd",
     "whatsapp",
     "whatsapp-bot",
-    "frediezra"
+    "teddydommie"
    ],
   "author": "Mzazi",
 "license": "ISC",
